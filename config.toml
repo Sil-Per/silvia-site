@@ -1,0 +1,75 @@
+baseurl = "http://www.example.com" # Hostname (and path) to the root.
+title = "Silvia Peracchi" # Site title.
+theme = "coder-portfolio" # Set the theme.
+languagecode = "en" # The site’s language code used to generate RSS.
+defaultcontentlanguage = "en" # The default content language.
+
+paginate = 20 # Default number of pages per page in pagination.
+
+pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
+pygmentscodefences = true # Enable code fence background highlighting.
+pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
+pygmentsUseClasses = true # new add
+
+disqusShortname = "silviaperacchi" # Enable or disable Disqus.
+
+[params] # theme parameters
+    author = "Silvia Peracchi" # Author's name.
+    info = "Economist" # Author's job title or info.
+    description = "Silvia Peracchi's personal website" # Site description.
+    keywords = "economics,economist, econometrics,personal" # Site keywords.
+    avatarurl = "images/silvia_emoji-computer.jpg" # Contain the path of the optionnal avatar in the static folder.
+
+    footercontent = "" # Add footer content
+    fixedbarContent = "Wanna write me an e-mail? " # Add fixedbar content
+    fixedbarContentAfter = "silvia.peracchi.sp@gmail.com" # Add fixedbar content after click
+
+    # Whether you want to hide copyright and credits in the footer.
+    hideCredits = true
+    hideCopyright = true
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    # Bottom sns share
+    snsShare = true # new add
+    # Popular sns share
+    # if you want add sns. please message!
+    enableTwitterShare = false  # new add
+    enableFacebookShare = false # new add
+    enableHatenaShare = false   # new add
+    enableLineShare = false     # new add
+    enableLinkedInShare = false # new add
+
+    thumbnail = "images/tn.png" # default sns thumbnail
+
+    # Multilanguage mode
+    langseparator = "|" # Separates menus from language selectors when site is multilingual.
+
+# Social links
+ 
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/silvia-peracchi-3a9655ba/"
+
+# Menu links
+[[menu.main]]
+    name = "Research"
+    weight = 1
+    url  = "research"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "about"
+[[menu.main]]
+    name = "Credits"
+    weight = 2
+    url = "credits"
