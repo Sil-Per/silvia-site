@@ -17,7 +17,7 @@ disqusShortname = "silviaperacchi" # Enable or disable Disqus.
     author = "Silvia Peracchi" # Author's name.
     info = "Economist" # Author's job title or info.
     description = "Silvia Peracchi's personal website" # Site description.
-    keywords = "economics,economist, econometrics,personal" # Site keywords.
+    keywords = "economics, personal" # Site keywords.
     avatarurl = "images/silvia_emoji-computer.jpg" # Contain the path of the optionnal avatar in the static folder.
 
     footercontent = "" # Add footer content
