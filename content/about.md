@@ -24,7 +24,8 @@ For a video on the program presentation, [click here.](https://www.youtube.com/w
 - Applied econometrics, methods for causal inference.
 - Spatial data.
 - Natural language processing.
-- Asylum migration in Europe.
+- Asylum migration.
+- Migration policies in Europe.
 
 ### [Download CV](https://www.dropbox.com/s/5ycjoegnujxvqpt/CV_Silvia_Peracchi_Jul2022.pdf?dl=0)
 
