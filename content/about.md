@@ -16,7 +16,6 @@ For a video on the program presentation, [click here.](https://www.youtube.com/w
 
 
 
-{{% portfolio image="../images/Silvia_photo_Corsica.jpg" alt="Coder Portfolio" %}}
 
 ## Research interests:
 
