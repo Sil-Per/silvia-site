@@ -1,6 +1,6 @@
 baseurl = "https://silvia-peracchi-econ.netlify.app/" # Hostname (and path) to the root.
 title = "Silvia Peracchi" # Site title.
-theme = "hugo-coder" # Set the theme.
+theme = "PaperMod" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "en" # The default content language.
 
