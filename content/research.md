@@ -1,6 +1,5 @@
 +++ 
 draft = false
-date = 2022-06-29T18:52:36+02:00
 title = "Research"
 thumbnail = "images/tn.png"
 description = ""
