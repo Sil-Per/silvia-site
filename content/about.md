@@ -17,10 +17,11 @@ For a video on the program presentation, [click here.](https://www.youtube.com/w
 
 
 
+
 ## Research interests:
 
 - Migration Economics.
-- Applied econometrics methods for causal inference.
+- Applied econometrics, methods for causal inference.
 - Spatial data.
 - Natural language processing.
 - Asylum migration in Europe.

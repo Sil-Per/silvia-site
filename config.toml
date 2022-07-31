@@ -19,6 +19,8 @@ disqusShortname = "silviaperacchi" # Enable or disable Disqus.
     description = "Silvia Peracchi's personal website" # Site description.
     keywords = "economics" # Site keywords.
     avatarurl = "images/silvia_emoji-computer.jpg" # Contain the path of the optionnal avatar in the static folder.
+    colorScheme = "dark"
+    hideColorSchemeToggle = false
 
     footercontent = "" # Add footer content
     fixedbarContent = "Wanna write me an e-mail? " # Add fixedbar content
@@ -52,12 +54,28 @@ disqusShortname = "silviaperacchi" # Enable or disable Disqus.
     # Multilanguage mode
     langseparator = "|" # Separates menus from language selectors when site is multilingual.
 
+
+#Analytics
+ [params.goatCounter]
+ code = "code"
+
 # Social links
- 
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/Sil-Per"
+
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin"
-    weight = 3
+    icon = "fa fa-2x fa-linkedin"
+    weight = 4
     url = "https://www.linkedin.com/in/silvia-peracchi-3a9655ba/"
 
 # Menu links
