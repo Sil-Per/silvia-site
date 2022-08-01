@@ -15,6 +15,8 @@ My research is part of the Doctoral Training Unit on Migration, Inequalities and
 For a video on the program presentation, [click here.](https://www.youtube.com/watch?v=uJFjOjvbVMw) 
 
 
+ <script data-goatcounter="https://peracchisilviapersonalwebsite1234567.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 
 
 

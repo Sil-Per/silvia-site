@@ -59,6 +59,7 @@ disqusShortname = "silviaperacchi" # Enable or disable Disqus.
  [params.goatCounter]
  code = "code"
 
+
 # Social links
 [taxonomies]
 category = "categories"
