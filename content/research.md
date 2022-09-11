@@ -6,12 +6,6 @@ description = ""
 +++
 
 ---------------------------
-### Genetic diversity and performance: evidence from football data.
-* With Prof. Dr. Michel Beine and Prof. Dr. Skerdilajda Zanaj. 
-Stage of the paper: Discussion paper [available here](https://www.cesifo.org/en/publikationen/2021/working-paper/genetic-diversity-and-performance-evidence-fooball-data). 
-
-In this paper, we investigate and find evidence of a causal link between the diversity of sports teams and their performance, in football. The study relies on a
-novel dataset of national football teams of European countries participating in the EUROs and the World Cup, in the qualification and the final stages, from 1970 to 2018. We make use of an algorithm to predict the players’ origins based on their surnames and allow for an asymmetric measure of diversity in the players’ origins with the use of genetic distance matrices.
 
 
 ### Migrants’ crisis in the local news: evidence from the French-Italian border.
@@ -28,3 +22,11 @@ This paper aims at assessing the international dimension of a country’s asylum
 these patterns via a flexible econometric model which allows for both spatial and temporal dynamics. The paper contribute to the existing literature by proposing estimates that allow to capture spillovers, as well as
 feedback-effects, along various dimensions of proximity. We find evidence that countries’ acceptance rates and processing times do depend on the choices of their neighbors, and that Germany’s open-door policy
 announcement induced some spillover effects.
+
+
+### Ancestral diversity and performance: evidence from football data.
+* With Prof. Dr. Michel Beine and Prof. Dr. Skerdilajda Zanaj. 
+Stage of the paper: Discussion paper. 
+
+In this paper, we investigate and find evidence of a causal link between the diversity of sports teams and their performance, in football. The study relies on a
+novel dataset of national football teams of European countries participating in the EUROs and the World Cup, in the qualification and the final stages, from 1970 to 2018. We make use of an algorithm to predict the players’ origins based on their surnames and allow for an asymmetric measure of diversity in the players’ origins with the use of genetic distance matrices.
