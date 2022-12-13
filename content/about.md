@@ -8,15 +8,9 @@ description = "about"
 ---------------------------
 Hi! Thanks for visiting my personal page. 
 
-I am Silvia, and I am currently a PhD candidate from the [University of Luxembourg](https://wwwen.uni.lu/research/fdef/dem/people/silvia_peracchi), working on the economics of migration. I will graduate at the end of 2022.
+I am PhD from the [University of Luxembourg](https://wwwen.uni.lu/research/fdef/dem/people/silvia_peracchi). In 2023 I will be a postdoctoral researcher at the Luxembourg Institute of Socio-Economic Research (LISER), where I'll be working on cross-border mobility.
 
-My research is part of the Doctoral Training Unit on Migration, Inequalities and Labour Markets [MINLAB](https://wwwen.uni.lu/research/fdef/dem/dtu_projects/dtu_minlab), an FNR funded research program involving applied socio-economic research on issues around migration, labour markets and inequalities.
-
-For a video on the program presentation, [click here.](https://www.youtube.com/watch?v=uJFjOjvbVMw) 
-
-
- <script data-goatcounter="https://peracchisilviapersonalwebsite1234567.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+My doctoral research was part of the Doctoral Training Unit on Migration, Inequalities and Labour Markets [MINLAB](https://wwwen.uni.lu/research/fdef/dem/dtu_projects/dtu_minlab), an FNR funded research program involving applied socio-economic research on issues around migration, labour markets and inequalities.
 
 
 

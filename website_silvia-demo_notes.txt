@@ -1,0 +1,51 @@
+# hugo beginner tutorial
+
+#https://www.youtube.com/watch?v=hjD9jTi_DQ4
+#installed with Chocolatey.
+
+#write on prompt
+#desktop directory (or elsewhere to create folders for a new site)
+#on a command prompt: type
+cd Desktop
+hugo new site silvia-demo 
+
+#https://themes.gohugo.io/themes/hugo-refresh/
+#change directory to your website's folder
+# Clone the ReFresh theme into the themes folder
+cd silvia-demo
+git init
+git submodule add https://github.com/PippoRJ/hugo-refresh.git themes/hugo-refresh
+# Remove the default config
+rm config.toml
+
+# Fetch the example config
+curl -O https://raw.githubusercontent.com/PippoRJ/hugo-refresh/master/exampleSite/config.yaml
+
+# Run the site locally
+hugo server -D
+
+# Open the site in your browser
+open http://localhost:1313
+
+#to create a post: .md extension means markdown. We will save it under "posts" and call it post1
+
+hugo new posts/post1.md
+
+Visual studio code: you can edit stuff easily opening the folder of the site as a project.
+
+#push and pull commits: follow the guide at link:
+https://www.neonscience.org/resources/learning-hub/tutorials/git-setup-remote
+
+#IN prompt:
+cd  C:\Users\silvia.peracchi\Dropbox\silvia-site
+
+git pull upstream master
+git add . 
+git commit -m 'Updates'
+git push origin master
+
+
+
+
+
+

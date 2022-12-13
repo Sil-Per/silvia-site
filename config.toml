@@ -57,7 +57,8 @@ disqusShortname = "silviaperacchi" # Enable or disable Disqus.
 
 #Analytics
  [params.goatCounter]
- code = "code"
+ code = "peracchisilviapersonalwebsite1234567"
+# You will access your account at https://peracchisilviapersonalwebsite1234567.goatcounter.com
 
 
 # Social links
@@ -79,6 +80,12 @@ url = "https://github.com/Sil-Per"
     weight = 4
     url = "https://www.linkedin.com/in/silvia-peracchi-3a9655ba/"
 
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 3
+url = "https://twitter.com/SilviaPeracchi"
+
 # Menu links
 [[menu.main]]
     name = "Research"
@@ -92,3 +99,7 @@ url = "https://github.com/Sil-Per"
     name = "Credits"
     weight = 2
     url = "credits"
+[[menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
