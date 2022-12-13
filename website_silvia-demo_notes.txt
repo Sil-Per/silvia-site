@@ -35,16 +35,14 @@ Visual studio code: you can edit stuff easily opening the folder of the site as 
 
 #push and pull commits: follow the guide at link:
 https://www.neonscience.org/resources/learning-hub/tutorials/git-setup-remote
-
+https://www.datacamp.com/tutorial/git-push-pull
 #IN prompt:
 cd  C:\Users\silvia.peracchi\Dropbox\silvia-site
-
+git init
 git pull upstream master
 git add . 
 git commit -m 'Updates'
 git push origin master
-
-
 
 
 
