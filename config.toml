@@ -54,7 +54,10 @@ disqusShortname = "silviaperacchi" # Enable or disable Disqus.
     # Multilanguage mode
     langseparator = "|" # Separates menus from language selectors when site is multilingual.
 
+[params.googleTagManager]
+    id = "gid"
 
+    
 #Analytics
  [params.goatCounter]
  code = "peracchisilviapersonalwebsite1234567"
