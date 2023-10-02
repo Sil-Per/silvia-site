@@ -8,9 +8,10 @@ description = "about"
 ---------------------------
 Hi! Thanks for visiting my personal page. 
 
-I am PhD from the [University of Luxembourg](https://wwwen.uni.lu/research/fdef/dem/people/silvia_peracchi). In 2023 I will be a postdoctoral researcher at the Luxembourg Institute of Socio-Economic Research (LISER), where I'll be working on cross-border mobility.
+I am a postdoctoral fellow at the Institute of Economics and Social Research (IRES) of [UCLouvain](https://uclouvain.be/en/research-institutes/lidam/ires). Prior to this, I worked as a postdoctoral researcher at the Luxembourg Institute of Socio-Economic Research ([LISER](https://www.liser.lu/)). I obtained my PhD in Economics at the University of Luxembourg in November 2022.
 
-My doctoral research was part of the Doctoral Training Unit on Migration, Inequalities and Labour Markets [MINLAB](https://wwwen.uni.lu/research/fdef/dem/dtu_projects/dtu_minlab), an FNR funded research program involving applied socio-economic research on issues around migration, labour markets and inequalities.
+During my PhD, my research centered on migration economics under the guidance of Professor [Michel Beine](https://sites.google.com/site/michelbeineeconomics/home).
+Currently, I conduct research in both migration and development economics, and I am collaborating with [Jean-François Maystadt](https://jmaystadt.wixsite.com/website) and [Luisito Bertinelli](https://scholar.google.com/citations?user=utBgyekAAAAJ&hl=en) on the project ``[Road to Sustainable Development in SSA](https://jmaystadt.wixsite.com/website/blank-page-1)''.
 
 
 
