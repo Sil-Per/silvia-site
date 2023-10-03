@@ -6,7 +6,7 @@ description = ""
 +++
 
 ---------------------------
-#### Work in progress
+## Work in progress
 
 ### Understanding the drivers of CRoss-border mobility 
 With Frédéric Docquier and Vincent Dautel
@@ -16,7 +16,7 @@ In this study, we look into key forces that shape the joint decision of workers 
 
 
 
-#### Working papers 
+## Working papers 
 ### Migrants’ crisis in the local news: evidence from the French-Italian border.
 * (Job market paper)  Peracchi, Silvia, The Migration Crisis in the Local News: Evidence from the French-Italian Border (2022). CESifo Working Paper No. 10070, Available at SSRN: https://ssrn.com/abstract=4273444 or [here](http://dx.doi.org/10.2139/ssrn.4273444). 
 
@@ -32,7 +32,7 @@ these patterns via a flexible econometric model which allows for both spatial an
 feedback-effects, along various dimensions of proximity. We find evidence that countries’ acceptance rates and processing times do depend on the choices of their neighbors, and that Germany’s open-door policy
 announcement induced some spillover effects.
 
-#### Publications
+## Publications
 * Beine, M., Peracchi, S., & Zanaj, S. (2023). Ancestral diversity and performance: Evidence from football data. Journal of Economic Behavior & Organization, 213, 193-214.
 (https://www.sciencedirect.com/science/article/pii/S0167268123002561)
 
