@@ -10,6 +10,7 @@ description = ""
 
 ### Understanding the drivers of CRoss-border mobility 
 With Frédéric Docquier and Vincent Dautel
+
 First work package of the project CRoss-border mobility, HOUSing market developments, and IneQualities [(CROHOUSINQ)](https://liser.elsevierpure.com/en/projects/cross-border-mobility-housing-market-developments-and-inequalitie)
 
 In this study, we look into key forces that shape the joint decision of workers on where to live and where to work. We focus on the context of cross-border work in Luxembourg or France, using detailed data on French-Born individuals from Grand-Est. We investigate and simulate how economic shocks, especially from the labor and housing markets, influence these decisions at different education levels.
