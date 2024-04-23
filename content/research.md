@@ -8,7 +8,15 @@ description = ""
 ---------------------------
 ## Work in progress
 
-### Understanding the drivers of CRoss-border mobility 
+### Road to Sustainable Development in Sub-Saharian Africa
+With Luisito Bertinelli, Evie Graus, Jean-Francois Maystadt.
+
+Luisito Bertinelli (University of Luxembourg) and Jean-François Maystadt (UCLouvain) are at the head of this project, 
+in which we look at the evolution of road infrastructure in Sub-Saharian Africa in the last decades, and investigate several impacts linked to sustainable development.
+​
+
+
+### Understanding the drivers of Cross-border mobility 
 With Frédéric Docquier and Vincent Dautel
 
 First work package of the project CRoss-border mobility, HOUSing market developments, and IneQualities [(CROHOUSINQ)](https://liser.elsevierpure.com/en/projects/cross-border-mobility-housing-market-developments-and-inequalitie)
