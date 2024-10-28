@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2024-10-28T12:58:04
+date = 2024-10-28T12:58:04+01:00
 title = "A collection of tips for applied research in Economics"
 description = ""
 slug = ""
