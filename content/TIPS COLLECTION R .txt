@@ -1,0 +1,27 @@
+GOOD TIPS R 
+
+Loops vs functions and parallelization.
+In quite a few occasions we can replace loops with functions to get faster; 
+In R we can use lapply, sapply, or even launch a parallel process (e.g. future and furrr packages). 
+Same for python.
+In STATA, we can also create "functions", which are called "programs". They can be stored as .ado files but can also be written on a .do file.
+ 
+-Example: recalibrate_constants.ado. I Stata, you can use the package "parallel"
+You can parallelize programs (and bootstrap routines). 
+
+Shortcut 
+“Ctrl+Shift+A”: good alignment
+“Ctrl+Shift+C”: comment and un-comment lines of code
+“Ctrl+Shift+F10”: restart R session
+
+LINK FOR TIPS ON TWITTER: https://twitter.com/rstudiotips
+
+
+Help---> cheat sheets
+
+
+
+Other tips I could cite:
+interacting with shell commands in STATA/ R.
+
+pickle files python
