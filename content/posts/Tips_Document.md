@@ -1,3 +1,17 @@
++++ 
+draft = false
+date = 2024-10-28T12:58:04
+title = "A collection of tips for applied research in Economics"
+description = ""
+slug = ""
+authors = []
+tags = ["applied research", "economics", "codes and data", "empirical research"]
+categories = ["code practices"]
+externalLink = ""
+series = ["Theme Demo"]
++++
+
+
 # A collection of tips for applied research in Economics
 
 ## Version Control

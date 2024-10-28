@@ -1,3 +1,16 @@
++++ 
+draft = true
+date = 2024-10-10T10:56:35+01:00
+title = "A List of Datasets Collecting National Migration Policies"
+description = ""
+slug = ""
+authors = []
+tags = ["migration", "data", "migration policy", "datasets"]
+categories = ["migration policy"]
+externalLink = ""
+series = ["Theme Demo"]
++++
+
 ---
 jupytext:
   formats: md:myst
