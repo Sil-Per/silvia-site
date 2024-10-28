@@ -15,7 +15,7 @@
     We go back to the folder n months after working on it and we wonder: <em>Which was the good code and data I should look at?</em>
     </td>
     <td style="width: 50%; text-align: right;">
-<img src="image_messy_folder_DALLE.webp" alt="Messy Folder Example" title="Screenshot of a Messy Research Project Folder" width="70%">   </td>
+<img src="../../static/images/image_messy_folder_DALLE.webp" alt="Messy Folder Example" title="Screenshot of a Messy Research Project Folder" width="70%">   </td>
   </tr>
 </table>
 
@@ -33,7 +33,7 @@ Here is a Windows 10 based example: we need to quickly visualize what changed be
 We then right-click  *Main_estimations.do*, click on "Select for compare"; right-click on *Main_estimations_V2_26_09_2024.do*, click on "Compare with selected".
 We'll see a nice and smart left-right visualization of what is unchanged and what differs in the 2 file versions.
 The colors and appropriate spacing of this nice tool make the comparison easier. There are also some easy clicks in case we want to get rid of some differences.
-<img src="compare_example_vs_code.png" alt="VSCode Compare" title="Comparison of files using VSCode" width="100%">   </td>
+<img src="../../static/images/compare_example_vs_code.png" alt="VSCode Compare" title="Comparison of files using VSCode" width="100%">   </td>
 
 
 2. ### *Using GitHub*
@@ -59,7 +59,7 @@ More guidance on GitHub can be found, for example, in these [Lecture Notes](http
 - **Organization**: My current practice is to separate directories for scripts, data, output, and documentation. 
 For projects not uploaded to GitHub, I add a "scripts> Old" folder where to store to codes and data to make sure I don't lose an older version of the file.
 However, I have been trying to avoid having any useless file in the scripts folders.
-<img src="example_folder_files.png" alt="Folder Example" title="Folder example" width="80%">   </td>
+<img src="../../static/images/example_folder_files.png" alt="Folder Example" title="Folder example" width="80%">   </td>
 
 - I have recently started calling scripts by prefixing them with a number.
 The number corresponds with the order in which I have to run the scripts. 
@@ -67,7 +67,7 @@ The ideal practice here would be to create a main script from which you run all 
 This sounds to me as a great approach for replicability (we should not forget to run all files from start to end to make sure that all modifications are accounted for in our last outputs).
 However, number prefixes alone are already a nice and simple approach to ensure intuitive folder layout.
 
-<img src="example_folder_numbering_files.png" alt="Folder file nrs" title="Folder file nrs" width="50%">   </td>
+<img src="../../static/images/example_folder_numbering_files.png" alt="Folder file nrs" title="Folder file nrs" width="50%">   </td>
 
 - I also tend to save my output in .tex format for tables and .png format for graphs. 
 I store them separately under a subfolder for Tables and one for Graphs, in Texdocs.
@@ -122,7 +122,7 @@ Here is an example of a list of municipalities I created for a project I worked 
 </pre></code>
    </td>
       <td style="width: 60%; text-align: right;">
-      <img src="list_municipalities.png" alt="Folder file nrs" title="Folder file nrs" width="100%">   
+      <img src="../../static/images/list_municipalities.png" alt="Folder file nrs" title="Folder file nrs" width="100%">   
     </td>
   </tr>
 </table>
