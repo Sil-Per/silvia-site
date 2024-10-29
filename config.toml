@@ -13,13 +13,19 @@ pygmentsUseClasses = true # new add
 
 disqusShortname = "silviaperacchi" # Enable or disable Disqus.
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [params] # theme parameters
     author = "Silvia Peracchi" # Author's name.
     info = "Economist" # Author's job title or info.
     description = "Silvia Peracchi's personal website" # Site description.
     keywords = "economics" # Site keywords.
     avatarurl = "images/silvia_emoji-computer.jpg" # Contain the path of the optionnal avatar in the static folder.
-    colorScheme = "dark"
+    colorScheme = "light"
     hideColorSchemeToggle = false
 
     footercontent = "" # Add footer content
