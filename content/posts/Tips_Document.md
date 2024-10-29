@@ -62,7 +62,7 @@ More guidance on GitHub can be found, for example, in these [Lecture Notes](http
 
 ## Arranging Files
 
-### Directory Structure
+### *Directory Structure*
 
 * **Organization**: My current practice is to separate directories for scripts, data, output, and documentation.
 For projects not uploaded to GitHub, I add a "scripts> Old" folder where to store to codes and data to make sure I don't lose an older version of the file.
@@ -86,7 +86,7 @@ As data can occupy memory, in case I need to free up some space in the directory
 
 ## Automation
 
-### General tips when exporting output
+### *Exporting output*
 
 * **Stata esttab or outreg2**: We often use these tools to extract `.tex` tables directly from Stata.
 Beyond regression output, you can go far and create many types of tables.
@@ -169,7 +169,7 @@ setwd("C:/Users/speracchi/Dropbox/NEWS_LIGURIA")
   * Script Independence: Scripts should ideally be independent and executable on their own, without requiring prior commands like changing directories or clearing the workspace.
   * Explicit Code: Relaunching the session before running a script ensures that all required packages are loaded explicitly (and all necessary data is loaded afresh) which helps in identifying missing dependencies.
 
-### Speeding up code: some specific tips
+### *Speeding up code: some specific tips*
 
 * Functions vs loops. Though this can depend on the situation, functions are in many cases faster options than loops to run a task repeatedly.
 In R we can use `lapply`, `sapply`, to apply the same function to a set of objects.
@@ -186,7 +186,7 @@ In python, we can create functions inline or in separate files and import them a
 
 ## Interacting with Shell Commands
 
-### Using Shell Commands in Scripts (I focus on Window 10)
+### *Using Shell Commands in Scripts (for Window 10)*
 
 * **Stata**: In Stata, we can incorporate a `shell` commands easily, to execute system-level tasks directly. This can be done by writing a `!` on the left of the shell command.
 [More info from Stata Manual](https://www.stata.com/manuals13/dshell.pdf)
@@ -263,7 +263,7 @@ for tab in tex_files_matches:
 
 ## Other General Software Tips
 
-### Reusing Regression Outputs
+### *Reusing Regression Outputs*
 
 * **Storage**: Besides storing output tables, it can be convenient in some occasions to store the model's results for later use.
 One straightforward example is the storage of a trained model for out of sample predictions into some test data.
@@ -278,7 +278,7 @@ We actually can simply save the model outputs:
   We can save all matrices as data quite easily by tranforming them into data and viceversa with commands `svmat` and `mkmat`.
   If we have to use matrices in Stata, it may be more convenient to use `mata` instead, which is a companion language specializing in handling matrices.
 
-### Code Aesthetics
+## Code Aesthetics
 
 Economists are not computer scientists.
 Yet, we can face complicated coding routines that require a good organization of our code, both within and across scripts.
@@ -294,7 +294,7 @@ Some specific tips:
 * **Readability short-cuts in R**: `Ctrl+Shift+A`:  imposes good alignment to your R-Script. `Ctrl+Shift+C` comments or uncomments the selected section.
 * **Indenting** `Tab` or `Shift+Tab` allows you to add indenting to the selected snipped in many environments.
 
-#### Example of R code with better alignment
+#### *Example of R code with better alignment*
 
 <table cellpadding="0" cellspacing="0" style="width: 100%;">
   <tr>
@@ -371,7 +371,7 @@ Some specific tips:
   </tr>
 </table>
 
-### Cheatsheets
+## Cheatsheets
 
 * Cheatsheets are files that group the functionalities of a package (or even software) in an appealing layout that facilitates a quick consultation.
 As an example, I used R's `stringr` package quite often in the past,
