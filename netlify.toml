@@ -9,3 +9,7 @@ command = "cd exampleSite && hugo --themesDir=../.. --baseURL $URL"
 [context.production.environment]
   HUGO_VERSION = "0.136.5"
   HUGO_EXTENDED = "true"
+
+
+[context.deploy-preview]
+command = "cd exampleSite &&  hugo --themesDir=../.. --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
