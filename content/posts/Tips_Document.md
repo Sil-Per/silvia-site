@@ -11,7 +11,6 @@ externalLink = ""
 series = ["Theme Demo"]
 +++
 
-# A collection of tips for applied research in Economics
 
 ## Version Control
 
@@ -32,9 +31,8 @@ series = ["Theme Demo"]
   </tr>
 </table>
 
-* ### A couple of tips  for version control
 
-1. ### *Compare scripts in VSCode or Notepad++*
+### *Compare scripts in VSCode or Notepad++*
 
 Visual Studio Code and Notepad++ are text editor tools that allow you to visualize files under a great variety of formats.
 They also have nice plugins that let you easily compare the contents of 2 scripts, for example 2 Stata .do files or Python .py files,
@@ -49,7 +47,7 @@ We'll see a nice and smart left-right visualization of what is unchanged and wha
 The colors and appropriate spacing of this nice tool make the comparison easier. There are also some easy clicks in case we want to get rid of some differences.
 <img src="/images/compare_example_vs_code.png" alt="VSCode Compare" title="Comparison of files using VSCode" width="100%">   </td>
 
-2. ### *Using GitHub*
+### *Using GitHub*
 
 * **Overview**: GitHub is an ideal tool out there for version tracking, collaborating on code, and managing changes.
 It is a platform that hosts our repositories online. We can choose whether to make our repositories private or public.
