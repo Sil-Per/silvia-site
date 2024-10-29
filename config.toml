@@ -13,6 +13,7 @@ pygmentsUseClasses = true # new add
 
 disqusShortname = "silviaperacchi" # Enable or disable Disqus.
 
+#added to read html code for images
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -37,8 +38,7 @@ disqusShortname = "silviaperacchi" # Enable or disable Disqus.
     hideCopyright = true
 
     # Custom CSS
-    custom_css = []
-
+    custom_css = ["css/custom.css"]
     # Alignment of Mobile Menu items
     itemscentered = true
 
