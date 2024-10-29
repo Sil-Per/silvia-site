@@ -28,7 +28,7 @@ series = ["Theme Demo"]
     We go back to the folder n months after working on it and we wonder: <em>Which was the good code and data I should look at?</em>
     </td>
     <td style="width: 50%; text-align: right;">
-<img src="/images/image_messy_folder_DALLE.webp" alt="Messy Folder Example" title="Screenshot of a Messy Research Project Folder" width="70%">   </td>
+<img src="/images/image_messy_folder_DALLE.webp" alt="Messy Folder Example" title="Screenshot of a Messy Research Project Folder" width="100%">   </td>
   </tr>
 </table>
 
