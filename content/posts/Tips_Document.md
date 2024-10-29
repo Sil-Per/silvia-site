@@ -16,7 +16,7 @@ series = ["Theme Demo"]
 
 <table cellpadding="0" cellspacing="0" style="width: 100%;">
   <tr>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 50%; vertical-align: top; border: none;">
     Organizing our <em>working directory</em> is not an easy path.
     Especially so, when we embark into our first empirical projects.
     As part of our usual routine, we produce several versions of the same script, similarly we edit our data files after launching the new scripts.
@@ -26,7 +26,7 @@ series = ["Theme Demo"]
     rather than how to make a 10-scripts coding project clean and tidy.
     We go back to the folder n months after working on it and we wonder: <em>Which was the good code and data I should look at?</em>
     </td>
-    <td style="width: 50%; text-align: right;">
+    <td style="width: 50%; text-align: right; border: none;">
 <img src="/images/image_messy_folder_DALLE.webp" alt="Messy Folder Example" title="Screenshot of a Messy Research Project Folder" width="100%">   </td>
   </tr>
 </table>
