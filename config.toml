@@ -104,5 +104,5 @@ url = "https://twitter.com/SilviaPeracchi"
     url = "credits"
 [[menu.main]]
 name = "Blog"
-weight = 4
-url = "posts/"
+weight = 2
+url = "posts"
