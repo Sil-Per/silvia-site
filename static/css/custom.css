@@ -1,5 +1,11 @@
-.container {
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 100%; /* Adjust percentage for desired width */
-  }  
+body {
+    margin-left: 5%; /* Adjust as needed */
+    margin-right: 5%;
+  }
+  
+  .container {
+    padding-left: 20px; /* Additional padding inside content */
+    padding-right: 20px;
+    max-width: 85%; /* Adjust for content width */
+    margin: 0 auto; /* Center content */
+  }
