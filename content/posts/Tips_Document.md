@@ -1,16 +1,15 @@
 +++ 
 draft = false
-date = 2024-10-28T12:58:04+01:00
-title = "A collection of tips for applied research in Economics"
+date = 2022-12-13T10:56:35+01:00
+title = "A List of Datasets Collecting National Migration Policies"
 description = ""
 slug = ""
 authors = []
-tags = ["applied research", "economics", "codes and data", "empirical research"]
-categories = ["code practices"]
+tags = ["migration", "data", "migration policy", "datasets"]
+categories = ["migration policy"]
 externalLink = ""
 series = ["Theme Demo"]
 +++
-
 
 # A collection of tips for applied research in Economics
 
