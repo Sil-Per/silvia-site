@@ -69,11 +69,11 @@ For projects not uploaded to GitHub, I add a "scripts> Old" folder where to stor
 However, I have been trying to avoid having any useless file in the scripts folders.
 <img src="/images/example_folder_files.png" alt="Folder Example" title="Folder example" width="80%">   </td>
 
-* I have recently started calling scripts by prefixing them with a number.
+* I have recently started calling scripts by **prefixing** them with a number. 
 The number corresponds with the order in which I have to run the scripts.
 The ideal practice here would be to create a main script from which you run all the numbered scripts in the good order.
 This sounds to me as a great approach for replicability (we should not forget to run all files from start to end to make sure that all modifications are accounted for in our last outputs).
-However, number prefixes alone are already a nice and simple approach to ensure intuitive folder layout.
+However, number prefixes alone are already a nice and simple approach to ensure intuitive folder layout. Thanks to [Evie Graus](https://www.uni.lu/fdef-en/people/evie-cornelia-catharina-maria-graus/) for showing me this tip!
 
 <img src="/images/example_folder_numbering_files.png" alt="Folder file nrs" title="Folder file nrs" width="50%">   </td>
 
@@ -149,9 +149,9 @@ You can use those folders when automatically storying the output from your analy
   cd "C:/Users/`c(username)'/Dropbox/NEWS_LIGURIA"
   ```
 
-And more generally we can write an if statement to ask Stata to use different cds, depending on the username, which we can access as `"c(username)"` in the sofware.
+  And more generally we can write an if statement to ask Stata to use different cds, depending on the username, which we can access as `"c(username)"` in the sofware.
 
-* Example 2: R  `setwd` and `rm(list=ls())` vs relaunching the R session
+  * Example 2: R  `setwd` and `rm(list=ls())` vs relaunching the R session
 
 ```r
 rm(list=ls()) 
@@ -172,12 +172,12 @@ setwd("C:/Users/speracchi/Dropbox/NEWS_LIGURIA")
 ### *Speeding up code: some specific tips*
 
 * Functions vs loops. Though this can depend on the situation, functions are in many cases faster options than loops to run a task repeatedly.
-In R we can use `lapply`, `sapply`, to apply the same function to a set of objects.
+  In R we can use `lapply`, `sapply`, to apply the same function to a set of objects.
 
-In STATA, we can also create "functions", which are called "programs". They can be stored as .ado files but can also be written on a .do file.
--Example: recalibrate_constants.ado. I Stata, you can use the package "parallel"
+  In STATA, we can also create "functions", which are called "programs". They can be stored as .ado files but can also be written on a .do file.
+  - You can read mor on ado files in the (Stata manual)[https://www.stata.com/manuals/u17.pdf#u17Ado-files] . In Stata, you can use the package "parallel" for parallel computing.
 
-In python, we can create functions inline or in separate files and import them as we import packages.
+  In python, we can create functions inline or in separate files and import them as we import packages.
 
 * Some parallel computing packages:
   * R: `furr`, `future`
@@ -376,3 +376,17 @@ Some specific tips:
 * Cheatsheets are files that group the functionalities of a package (or even software) in an appealing layout that facilitates a quick consultation.
 As an example, I used R's `stringr` package quite often in the past,
 and found it easier to check how to write down the correct regular expressions by consulting the cheatsheet available [Here.](https://evoldyn.gitlab.io/evomics-2018/ref-sheets/R_strings.pdf)
+
+
+## Stata's ietoolkit
+Thanks to my friend and colleauge [Aleksa](https://www.uni.lu/fdef-en/people/aleksa-uljarevic/), here is an additional resource that could be of use for researchers using Stata, many of the aspects addressed above: data management, coding standards, etc.
+I am talking about [Stata's ietoolkit](https://github.com/worldbank/ietoolkit?tab=readme-ov-file), which is a set of tools developed by the World Bank's impact evaluation department DIME. 
+
+Check, for example, their `iefolder` command, which sets up project folders and master do-files that DIME’s standards.
+
+## Credits
+I would like to credit [Margaux Clarr](https://uclouvain.be/en/directories/margaux.clarr) who share a nice reading by Matthew Gentzkow and Jesse M. Shapiro with me on the topic. I'd recommend this reading to PhD students at their initial stages:
+Gentzkow, Matthew and Jesse M. Shapiro. 2014. Code and Data
+for the Social Sciences: A Practitioner’s Guide. University of Chicago mimeo,
+http://faculty.chicagobooth.edu/matthew.gentzkow/research/CodeAndData.pdf, last updated January 2014.
+
