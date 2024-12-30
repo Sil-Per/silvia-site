@@ -47,3 +47,6 @@ announcement induced some spillover effects.
 
 In this paper, we investigate and find evidence of a causal link between the diversity of sports teams and their performance, in football. The study relies on a
 novel dataset of national football teams of European countries participating in the EUROs and the World Cup, in the qualification and the final stages, from 1970 to 2018. We make use of an algorithm to predict the players’ origins based on their surnames and allow for an asymmetric measure of diversity in the players’ origins with the use of genetic distance matrices.
+
+## Other publications
+* Maystadt, J. F., Peracchi, S., Sargsyan, E., & You, L. (2024). Understanding migration within countries: A global perspective. CGIAR Initiative on Fragility, Conflict, and Migration. Washington, DC: International Food Policy Research Institute. (https://hdl.handle.net/10568/168105)
