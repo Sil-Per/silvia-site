@@ -8,13 +8,15 @@ description = ""
 ---------------------------
 ## Work in progress
 
-### Road to Sustainable Development in Sub-Saharian Africa
+### Roads and food security in Sub-Saharan Africa
 With Luisito Bertinelli, Evie Graus, Jean-Francois Maystadt.
 
-Luisito Bertinelli (University of Luxembourg) and Jean-François Maystadt (UCLouvain) are at the head of this project, 
-in which we look at the evolution of road infrastructure in Sub-Saharian Africa in the last decades, and investigate several impacts linked to sustainable development.
-​
+This paper examines the impact of road access on food security in Sub-Saharan Africa from 1980 to 2012. Using geolocated data on child malnutrition and road networks, we assess the broader consequences of road infrastructure, balancing economic gains from accessibility against potential drawbacks such as ecological damage, land-use change, and dependence on external actors (e.g., pressure on smallholder farmers). To address endogeneity, we adopt an instrumental-variable approach, constructing fictitious road networks based on the inconsequential units framework. Our findings indicate that the benefits of roads outweigh their costs: proximity to paved roads significantly improves food security for young children. The main mechanisms are increases in healthcare utilization, household wealth, and cropland area, while market expansion points to the early stages of structural transformation.
 
+### Civil War Driven Trade Shocks and Their Footprint: Roads, Pollution, and Development in West Africa
+With Evie Graus
+
+This paper looks shifts in trade transits in West Africa, resulting from Ivory Coast's civil war in the 2000. Coastal countries in the region compete to attract the flow of goods from landlocked countries to their ports. With an internal civil war disrupting access to Ivory Coast's port of Abidjan, we study this event as a quasi-natural experiment that affected Ivory Coast's neighboring coastal countries. In particular, these redirected flows likely effected well-connected areas with international roads leading to ports. We use road proximity and measures of network centrality in a diff-in-diff setting, to study the effect of surging transit on population density and built-up areas. We also explore whether pollution grows, as a side effect. Preliminary findings suggest an heterogeneous impact across countries.
 
 ### Understanding the drivers of Cross-border mobility 
 With Frédéric Docquier and Vincent Dautel
@@ -42,6 +44,7 @@ feedback-effects, along various dimensions of proximity. We find evidence that c
 announcement induced some spillover effects.
 
 ## Publications
+* Peracchi, S. (Forthcoming). Migration Crisis in the Local News: Evidence from the French-Italian Border. Journal of Urban Economics.
 * Beine, M., Peracchi, S., & Zanaj, S. (2023). Ancestral diversity and performance: Evidence from football data. Journal of Economic Behavior & Organization, 213, 193-214.
 (https://www.sciencedirect.com/science/article/pii/S0167268123002561)
 
