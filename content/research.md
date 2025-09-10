@@ -25,15 +25,6 @@ First work package of the project CRoss-border mobility, HOUSing market developm
 
 In this study, we look into key forces that shape the joint decision of workers on where to live and where to work. We focus on the context of cross-border work in Luxembourg or France, using detailed data on French-Born individuals from Grand-Est. We investigate and simulate how economic shocks, especially from the labor and housing markets, influence these decisions at different education levels.
 
-
-
-## Working papers 
-### Migrants’ crisis in the local news: evidence from the French-Italian border.
-* (Job market paper, conditionally accepted at __Journal of Urban Economics__)  Peracchi, Silvia, The Migration Crisis in the Local News: Evidence from the French-Italian Border CESifo Working Paper No. 10070, Available at SSRN: https://ssrn.com/abstract=4273444 or [here](http://dx.doi.org/10.2139/ssrn.4273444). 
-
-This paper investigates the impact of local exposure to migration crisis events on the local news market. Exploiting a local setting, this study explores a policy dating June 2015, whereby French authorities introduced militarized controls at the Italian frontier.
-This resulted into a consistent push-back of the irregular crossings of migrants and asylum seekers to the Italian land. Combining text-analysis tools with a quasi-experimental setting, this study documents that the presence of migrants in the Italian border area was mediatically important. Yet, media slant towards anti-immigrant discourse is found to rise relatively more in the areas least directly involved by the border controls. This bias-effect is found to be driven by a demand-push for ideology in the news. Finally, slant and voting preferences share the same broad direction, and a similar pattern is also reflected in hate-crime records.
-
 ### International drivers of immigration policies. 
 * With Dr. Melissa Tornari.
 Stage of the paper: draft available on demand. 
