@@ -8,8 +8,8 @@ description = ""
 ---------------------------
 ## Work in progress
 
-### Roads and food security in Sub-Saharan Africa
-With Luisito Bertinelli, Evie Graus, Jean-Francois Maystadt.
+### Roads and child health in Sub-Saharan Africa
+With Luisito Bertinelli, Evie Graus, Jean-Francois Maystadt. [(WP HERE)](http://hdl.handle.net/2078.1/306384)
 
 This paper examines the impact of road access on food security in Sub-Saharan Africa from 1980 to 2012. Using geolocated data on child malnutrition and road networks, we assess the broader consequences of road infrastructure, balancing economic gains from accessibility against potential drawbacks such as ecological damage, land-use change, and dependence on external actors (e.g., pressure on smallholder farmers). To address endogeneity, we adopt an instrumental-variable approach, constructing fictitious road networks based on the inconsequential units framework. Our findings indicate that the benefits of roads outweigh their costs: proximity to paved roads significantly improves food security for young children. The main mechanisms are increases in healthcare utilization, household wealth, and cropland area, while market expansion points to the early stages of structural transformation.
 
@@ -19,7 +19,7 @@ With Evie Graus
 This paper looks shifts in trade transits in West Africa, resulting from Ivory Coast's civil war in the 2000. Coastal countries in the region compete to attract the flow of goods from landlocked countries to their ports. With an internal civil war disrupting access to Ivory Coast's port of Abidjan, we study this event as a quasi-natural experiment that affected Ivory Coast's neighboring coastal countries. In particular, these redirected flows likely effected well-connected areas with international roads leading to ports. We use road proximity and measures of network centrality in a diff-in-diff setting, to study the effect of surging transit on population density and built-up areas. We also explore whether pollution grows, as a side effect. Preliminary findings suggest an heterogeneous impact across countries.
 
 ### Understanding the drivers of Cross-border mobility 
-With Frédéric Docquier and Vincent Dautel
+With Frédéric Docquier and Vincent Dautel. [(WP HERE)](https://sites.uclouvain.be/econ/DP/IRES/2025015.pdf)
 
 First work package of the project CRoss-border mobility, HOUSing market developments, and IneQualities [(CROHOUSINQ)](https://liser.elsevierpure.com/en/projects/cross-border-mobility-housing-market-developments-and-inequalitie)
 
