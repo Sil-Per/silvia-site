@@ -35,7 +35,7 @@ feedback-effects, along various dimensions of proximity. We find evidence that c
 announcement induced some spillover effects.
 
 ## Publications
-* Peracchi, S. (Forthcoming). Migration Crisis in the Local News: Evidence from the French-Italian Border. Journal of Urban Economics.
+* Peracchi, S. (2025). Migration Crisis in the Local News: Evidence from the French-Italian Border. Journal of Urban Economics.
 * Beine, M., Peracchi, S., & Zanaj, S. (2023). Ancestral diversity and performance: Evidence from football data. Journal of Economic Behavior & Organization, 213, 193-214.
 (https://www.sciencedirect.com/science/article/pii/S0167268123002561)
 
